@@ -12,7 +12,7 @@ Backup & Recovery workspace for:
 |---|---|
 | `Backup-Recovery.md` | This document (backup/recovery plan) |
 | `README.md` | Repository overview |
-| `IT 100/`, `IT 105/`, `IT 115/`, `Geog-0001/`, `ETHN-0050/` | Course notes |
+- `Decommissioning-Plan-WINTEN.md` | Decommissioning plan (WINTEN DC + 3 VMs) |
 | `.obsidian/` | Obsidian app settings (git-tracked) |
 
 ## Remotes
